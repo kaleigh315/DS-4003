@@ -1,2 +1,2 @@
-# DS-4003
-Eunice Kim
+# Eunice Kim DS-4003
+DS Final Project
