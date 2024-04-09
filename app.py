@@ -1,10 +1,13 @@
 # %%
 # import dependencies
+import sys
+print(sys.executable)
+
 import pandas as pd
 import numpy as np
 import plotly.express as px
 from dash import Dash, dcc, html, Input, Output
-#import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 from wordcloud import WordCloud, STOPWORDS
 
 # %%
