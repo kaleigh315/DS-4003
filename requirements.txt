@@ -6,3 +6,12 @@ plotly
 gunicorn
 matplotlib
 wordcloud
+
+sys
+base64
+io
+BytesIO
+px
+pio
+sns
+plt
