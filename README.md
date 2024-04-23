@@ -1,6 +1,5 @@
 # Eunice Kim DS-4003
 DS Final Project
-[[https://ds-4003.onrender.com](https://ds-4003-1.onrender.com)https://ds-4003-1.onrender.com](https://ds-4003-4.onrender.com)
 
 For the enjoyment of music fans, this dashboard provides an in-depth analysis of global music trends from 2010 to 2019. Through interactive visualizations and data exploration tools, users can explore questions related to genre popularity, artist trends, and feature correlations. The dashboard uses data collected by Billboard and Spotify to give users insights into what influences music trends. It also serves as a platform for finding new music and tracking how different musical genres have changed over the last ten years. With features such as an interactive word cloud, genre word bank, heatmap, scatter plot, and customizable dropdown menus, the dashboard allows users to analyze the dynamics of the music industry.
 
