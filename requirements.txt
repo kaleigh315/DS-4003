@@ -7,7 +7,7 @@ pandas
 plotly
 seaborn
 wordcloud
-io
+BytesIO
 base64
 
 
