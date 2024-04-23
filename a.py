@@ -22,7 +22,7 @@ from wordcloud import WordCloud, STOPWORDS
 
 # %%
 # Import the data
-data = pd.read_csv("cleandata")
+data = pd.read_csv("data/cleandata")
 
 # Defining the genre color map, used to color each genre by a specific color for the wordcloud
 genre_color_map = {
